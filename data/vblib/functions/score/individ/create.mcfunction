@@ -1,0 +1,1 @@
+scoreboard objectives add vblib_score_individ dummy

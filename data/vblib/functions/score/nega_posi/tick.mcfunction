@@ -1,0 +1,2 @@
+execute if score current vblib_score_negaposi >= max vblib_score_negaposi unless score end vblib_score_negaposi = end_check vblib_score_negaposi run function #vblib:nega_posi_max
+execute if score current vblib_score_negaposi <= min vblib_score_negaposi unless score end vblib_score_negaposi = end_check vblib_score_negaposi run function #vblib:nega_posi_min
