@@ -1,0 +1,1 @@
+scoreboard objectives add vblib_player_list dummy "Player List"

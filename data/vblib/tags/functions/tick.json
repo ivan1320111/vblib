@@ -2,6 +2,7 @@
     "values": [
         "vblib:timer/tick",
         "vblib:score/nega_posi/tick",
-        "vblib:timer/ingame_timer/tick"
+        "vblib:timer/ingame_timer/tick",
+        "vblib:player_list/tick"
     ]
 }
