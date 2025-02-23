@@ -1,0 +1,10 @@
+{
+    "values": [
+        "vblib:timer/create",
+        "vblib:score/nega_posi/create",
+        "vblib:timer/ingame_timer/create",
+        "vblib:game/create",
+        "vblib:player_list/create",
+        "vblib:no_colision/create"
+    ]
+}
