@@ -1,1 +1,0 @@
-team join no_colision @a
