@@ -5,6 +5,7 @@
         "vblib:timer/ingame_timer/create",
         "vblib:game/create",
         "vblib:player_list/create",
-        "vblib:no_colision/create"
+        "vblib:no_colision/create",
+        "vblib:timedespawn/create"
     ]
 }

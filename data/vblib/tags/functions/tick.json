@@ -4,6 +4,7 @@
         "vblib:score/nega_posi/tick",
         "vblib:timer/ingame_timer/tick",
         "vblib:player_list/tick",
-        "vblib:no_colision/tick"
+        "vblib:no_colision/tick",
+        "vblib:timedespawn/tick"
     ]
 }

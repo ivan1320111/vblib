@@ -1,0 +1,2 @@
+scoreboard players add start vblib_despawn_time 1
+execute if score start vblib_despawn_time <= start vblib_despawn_timer unless score start vblib_despawn_time >= start vblib_despawn_timer run function vblib:timedespawn/timerreset
