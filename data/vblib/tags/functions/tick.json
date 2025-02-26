@@ -3,6 +3,10 @@
         "vblib:timer/tick",
         "vblib:score/nega_posi/tick",
         "vblib:timer/ingame_timer/tick",
-        "vblib:player_list/tick"
+        "vblib:timer/intermission_timer/tick",
+        "vblib:player_list/tick",
+        "vblib:game/barrier_marker/tick",
+        "vblib:game/lobby/tick",
+        "vblib:game/team_join/tick"
     ]
 }

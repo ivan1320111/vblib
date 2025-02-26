@@ -1,0 +1,1 @@
+execute if score start vblib_game_state = zero vblib_game_state at @e[tag=barrier_marker] run particle end_rod ~ ~.4 ~ .3 .3 .3 0 1

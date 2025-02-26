@@ -1,0 +1,2 @@
+scoreboard players remove min vblib_intermission_timer 1
+scoreboard players set second vblib_intermission_timer 59

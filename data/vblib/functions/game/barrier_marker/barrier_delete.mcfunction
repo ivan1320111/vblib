@@ -1,0 +1,1 @@
+execute at @e[tag=barrier_marker] run fill ~-3 ~-3 ~-3 ~3 ~3 ~3 air replace barrier

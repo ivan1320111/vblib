@@ -3,7 +3,12 @@
         "vblib:timer/create",
         "vblib:score/nega_posi/create",
         "vblib:timer/ingame_timer/create",
+        "vblib:timer/intermission_timer/create",
         "vblib:game/create",
-        "vblib:player_list/create"
+        "vblib:player_list/create",
+        "vblib:math/create",
+        "vblib:dev/create",
+        "vblib:kills/create",
+        "vblib:neutral_team/create"
     ]
 }

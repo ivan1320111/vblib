@@ -1,0 +1,3 @@
+scoreboard players set start vblib_gamestate 1
+function #vblib:intermission_end
+scoreboard objectives setdisplay sidebar vblib_ingame_timer
