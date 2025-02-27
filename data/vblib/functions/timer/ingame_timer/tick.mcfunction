@@ -1,4 +1,4 @@
-execute if score start vblib_game_state > zero vblib_ingame_timer if score time vblib_time = time_max vblib_time run scoreboard players remove second vblib_ingame_timer 1
+execute if score start vblib_intermission_timer > zero vblib_intermission_timer if score start vblib_game_state > zero vblib_ingame_timer if score time vblib_time = time_max vblib_time run scoreboard players remove second vblib_ingame_timer 1
 
 execute if score second vblib_ingame_timer < zero vblib_ingame_timer if score hour vblib_ingame_timer > zero vblib_ingame_timer if score min vblib_ingame_timer = zero vblib_ingame_timer run function vblib:timer/ingame_timer/hour
 execute if score min vblib_ingame_timer > zero vblib_ingame_timer if score second vblib_ingame_timer < zero vblib_ingame_timer run function vblib:timer/ingame_timer/min

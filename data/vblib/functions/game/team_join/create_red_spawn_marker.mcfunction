@@ -1,0 +1,1 @@
+summon marker ~ ~.5 ~ {Tags:["red_spawn_marker"]}

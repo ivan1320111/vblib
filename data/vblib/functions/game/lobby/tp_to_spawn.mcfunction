@@ -1,0 +1,1 @@
+tp @a @e[tag=lobby_marker,limit=1]

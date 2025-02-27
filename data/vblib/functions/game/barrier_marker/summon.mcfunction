@@ -1,0 +1,1 @@
+summon marker ~ ~.5 ~ {Tags:["barrier_marker","vblib"]}
